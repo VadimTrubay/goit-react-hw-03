@@ -1,9 +1,9 @@
-import React from 'react'
+import styles from './SearchBox.module.css';
 
 const SearchBox = () => {
   return (
-    <div>
-      
+    <div className={styles.search_box}>
+      SearchBox
     </div>
   )
 }

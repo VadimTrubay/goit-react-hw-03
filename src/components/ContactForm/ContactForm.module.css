@@ -1,3 +1,5 @@
 .contact_form {
-    border: 2px solid #000000
+  border: 3px solid #757be8;
+  border-radius: 5px;
+  margin: 5px;
 }
