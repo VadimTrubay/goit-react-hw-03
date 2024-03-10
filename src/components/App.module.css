@@ -1,9 +1,7 @@
 .container {
-  border: 3px solid #c05959;
-  border-radius: 5px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 400px;
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*justify-content: center;*/
+  /*width: 400px;*/
   margin: 5px;
 }

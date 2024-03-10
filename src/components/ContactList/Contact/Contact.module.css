@@ -1,4 +1,25 @@
 .contact {
+  flex: 0 0 calc(33.33% - 10px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
   border: 2px solid #2b5d15;
+  border-radius: 10px;
   margin: 5px;
+  min-width: 360px;
+}
+
+.contact span {
+  margin-right: 40px;
+
+}
+
+.contact div {
+  margin: 10px;
+}
+
+.name,
+.number {
+  margin-right: 10px;
 }
